@@ -22,7 +22,7 @@ namespace DiscordEmbed
         public List<string> consoleText = new List<string>();
 
         // All the values. These are changed on the embed button press to optimize
-        public string Webhook_url, author, authorIcon, title, titleUrl, message, imageIRL, thumbnailURL, footerTet, footerIcon; // REQUIRED
+        public string Webhook_url, author, authorIcon, title, titleUrl, message, imageURL, thumbnailURL, footerText, footerIcon; // REQUIRED
         public int color; // OPTIONAL - [PARSED INT]
 
         public Main()

@@ -49,8 +49,7 @@ namespace DiscordEmbed
 
             };
             // Call the HTTP client and execute request
-            HTTP req = new HTTP();
-            req.MakeRequest(Main.instance.Webhook_url, Newtonsoft.Json.JsonConvert.SerializeObject(json));
+            HTTP.MakeRequest(Main.instance.Webhook_url, Newtonsoft.Json.JsonConvert.SerializeObject(json));
             
         }
 

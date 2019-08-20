@@ -15,7 +15,7 @@ namespace DiscordEmbed
             Main HTTP request form using Leaf.xNet since I was lazy.
             Action: POST REQUEST
         */
-        public string MakeRequest(string url, string jsonContent)
+        public static string MakeRequest(string url, string jsonContent)
         {
             // Surround with an try statement to prevent errors from logging and crashing the software
             try
