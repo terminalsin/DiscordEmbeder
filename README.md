@@ -26,6 +26,7 @@ on GitHub.</p>
 <p class="has-line-data" data-line-start="34" data-line-end="35">Discord Embed requires <a href="https://microsoft.net">Windows</a> 7+ to run.</p>
 <p class="has-line-data" data-line-start="36" data-line-end="38">All you need to do is to paste all the files provided in the release. Hell some are not even needed!<br>
 Please do NOT seperate the .dll files from the .exe. This WILL break the application.</p>
+<p class="has-line-data" data-line-start="39" data-line-end="40">Link to download: <a href="https://github.com/GhastD/DiscordEmbeder/releases">https://github.com/GhastD/DiscordEmbeder/releases</a></p>
 <h2 class="code-line" data-line-start=42 data-line-end=44 ><a id="License_42"></a>License</h2>
 <p class="has-line-data" data-line-start="45" data-line-end="46">GPL-V3</p>
 <p class="has-line-data" data-line-start="48" data-line-end="49"><strong>Free Software, Hell Yeah!</strong></p>
