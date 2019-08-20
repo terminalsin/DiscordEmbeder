@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordEmbed", "DiscordEmbed\DiscordEmbed.csproj", "{681E7EFE-CC7B-48D5-9D3B-42EBB9F89A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681E7EFE-CC7B-48D5-9D3B-42EBB9F89A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681E7EFE-CC7B-48D5-9D3B-42EBB9F89A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681E7EFE-CC7B-48D5-9D3B-42EBB9F89A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681E7EFE-CC7B-48D5-9D3B-42EBB9F89A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188A0432-20D5-4DCE-B851-10D2EAA0AC6F}
+	EndGlobalSection
+EndGlobal
