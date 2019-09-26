@@ -4,7 +4,7 @@
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Embed messages in any servers you own or administrate</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Create wonderful embeds using only a GUI</li>
-<li class="has-line-data" data-line-start="8" data-line-end="10">Magic</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">Magic!</li>
 </ul>
 <h1 class="code-line" data-line-start=10 data-line-end=11 ><a id="Coming_soon_10"></a>Coming soon!</h1>
 <ul>
